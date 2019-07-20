@@ -1,0 +1,2 @@
+ Populate other scripts over in this dir for starting supervisord and putting custom conf for php/http
+Can also include certs for website for https traffic by encoding it with gpg2 and decoding while http service startup via supervisord
